@@ -20,8 +20,8 @@ SLACS（スラックス）は，記号論理学と情報科学の境界領域に
 
 ## SLACS の歴史
 
-* SLACS という名前の由来 (TODO: 追加)
-* SLACS の歩み (TODO: 追加)
+* [SLACS という名前の由来](history/by-hayashi.html)
+* [SLACS の歩み](history/)
 
 ----
 
