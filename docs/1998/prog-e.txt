@@ -1,0 +1,134 @@
+	SLACS '98 PROGRAMME
+
+--- Wed. 14/10 ---
+
+13:30--14:30
+ Weiermann, A. (Westfaelische Wilhelms-Univ. Muenster)
+   Sharp bounds for the lengths of reduction sequences in Goedel's T
+
+Break
+
+14:45--15:15
+ Tatsuya SHIMURA (College of Science and Technology, Nihon Univ.)
+   A semantics of Kashima's connection calculus for the logic of constant domain
+15:15--16:05
+ Misao Nagayama (Dept. of Mathematics, Tokyo Woman's Christian Univ.),
+ Mitsuhiro Okada (Dept. of Philosophy, Keio Univ.)
+   Graph-theoretic characterizations of proof nets in non-commutative linear
+	logics and their computational complexity
+
+Break
+
+16:20--16:50
+ Osamu Watari(Grad. School of Engineering, Hokkaido Univ.),
+ Koji Nakatogawa(Grad. School of Engineering, Hokkaido Univ.),
+ Masaaki Miyakoshi(Fac. of Letters, Hokkaido Univ.)
+   Multiplicative / Additive Connectives for Deontic Logic
+16:50--17:40
+ Mamoru Shimoda (Shimonoseki City Univ.)
+   About fuzzy equivalence relations
+
+--- Thu. 15/10 ---
+
+9:45--10:45
+ Takaki Osamu (Kyoto Sangyo Univ.)
+   On normalizability of natural deduction of arithmetic with inductive
+	definition
+10:15--10:45
+ Hirai Takaharu (Grad. School of Science and Technology, Kobe Univ.)
+   On Temporal Linear Logic and Timed Petri Net
+10:45--11:15
+ TANABE, Makoto (Prest21, JST/ASTEM-RI, Kyoto)
+   Observing Reactive Systems: A Logical Approach using Intuitionistic Modal
+	Logic
+
+Break
+
+11:30-12:00
+ WATANABE HIROSHI (Semantics Group, Electrotechnical Laboratory)
+   An Axiomatics for Categories of Transition Systems as Coalgebras
+12:00-12:30
+ Shinya Sato (Grad. of Science and Technology, Science Univ. of Tokyo),
+ Toru Sugimoto (Fac. of Science and Technology, Science Univ. of Tokyo)
+   A concurrent call-by-value lambda evaluator based on computational
+	interpretation of Linear Logic
+
+Break
+
+13:30--14:30
+ Wainer, S. S. (Univ. of Leeds)
+   Proof Theory and Complexity
+
+Break
+
+14:45--15:15
+ Fujita Ken-etsu (Kyushu Inst. of Technology)
+   2nd Order Lambda-Mu-Calculus of Call-by-Value
+15:15--16:15
+ Ichiro Ogata (Electrotechnical Lab.)
+   lambda-mu calculus as cut elimination of LK
+
+Break
+
+16:30--17:00
+ Yukiyoshi Kameyama (Grad. School of Informatics, Kyoto Univ.)
+   A simple proof of the strong normalizability of classical catch/throw
+	calculi
+17:00--17:30
+ Baba Kensuke (Kyushu Univ.), Hirokawa Sachio (Kyushu Univ.),
+ Fujita Ken-etsu ( Kyushu Inst. of Thechnology)
+   Parallel calculation on lambda-mu calculus
+
+Dinner
+
+--- Fri. 16/10 ---
+
+9:25--10:05
+ Kohtaro Tadaki (Grad. School of Science, Hokkaido Univ.)
+   Kolmogorov complexity and fractal sets
+10:05--10:35
+ KAMO, Hiroyasu (Fac. of Science, Nara Women's Univ.)
+   Computability of the Hausdorff Metrics on Computable Metric Spaces
+10:35--11:05
+ Tsuiki Hideki (Fac. of Integrated Human Studies, Kyoto Univ.)
+   Real PCF by Gray code
+
+Break
+
+11:20--12:00
+ Kenji Taguchi (Grad. School of Information Science and Electrical Engineering,
+	Kyushu Univ.),
+ Hiroyuki Sato (Computer Centre, The Univ. of Tokyo)
+   A Calculus for Manipulating Cells - The Cell Calculus -
+12:00--12:30
+ Makoto Tatsuta (Dept. of Mathematics, Kyoto Univ.)
+   Uniform Continuity of Graph Model and Partial Function Model
+
+Break
+
+13:30--14:00
+ Masaru Shirahata
+   Pier -- a proof interactive editor --
+14:00--14:15
+ Tsuiki Hideki (Fac. of Integrated Human Studies, Kyoto Univ.),
+ Takeuti Izumi (Grad. School of Informatics, Kyoto Univ.)
+   Implementation of drawing self-similar sets with network
+13:30--15:05
+ Sumitomo Ryosuke (Grad. School of Science and Technology, Kobe Univ.)
+   An environment assisting proof animation
+
+Break
+
+15:20--16:00
+ Hiroshi Nakano (Dept. Applied Math. and Informatics, Ryukoku Univ.)
+   A realizability interpretation of self-referential types
+16:00--16:50
+ Susumu Hayashi (Fac. of Engineering, Kobe Univ.)
+   Beeson's q-realizability is useful for program extraction
+
+
+
+
+
+
+
