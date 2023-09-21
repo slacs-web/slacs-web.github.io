@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png" type="image/x-icon">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=10; chrome=1;">
+<meta name="fragment" content="!">
+<!-- base href="https://docs.google.com/forms/d/1rQmLsb03HXul4457MqLUDwYdyf7_iubitdT6Coo74YM/viewform?embedded=true" -->
+
+<link href="viewform_data/3648850505-formview_embedded_ltr.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+        
+      </style>
+<style type="text/css">
+      
+    </style>
+<script type="text/javascript">
+      /**
+ * @license
+ *! H5F
+ * https://github.com/ryanseddon/H5F/
+ * Copyright (c) Ryan Seddon | Licensed MIT
+ */
+
+(function(e,t){"function"==typeof define&&define.amd?define(t):e.H5F=t()})(this,function(){var e,t,a,i,n,r,s,l,u,o,c,d,v,f,p,m,h,g,b,y,w,C,N,A,E,$,k=document,x=k.createElement("input"),q=/^[a-zA-Z0-9.!#$%&'*+-\/=?\^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/,M=/[a-z][\-\.+a-z]*:\/\//i,L=/^(input|select|textarea)$/i;return r=function(e,t){var a=!e.nodeType||!1,i={validClass:"valid",invalidClass:"error",requiredClass:"required",placeholderClass:"placeholder"};if("object"==typeof t)for(var r in i)t[r]===void 0&&(t[r]=i[r]);if(n=t||i,a)for(var l=0,u=e.length;u>l;l++)s(e[l]);else s(e)},s=function(a){var i,n=a.elements,r=n.length,s=!!a.attributes.novalidate;if(b(a,"invalid",u,!0),b(a,"blur",u,!0),b(a,"input",u,!0),b(a,"keyup",u,!0),b(a,"focus",u,!0),b(a,"change",u,!0),b(a,"click",o,!0),b(a,"submit",function(i){e=!0,t||s||a.checkValidity()||w(i)},!1),!v())for(a.checkValidity=function(){return c(a)};r--;)i=!!n[r].attributes.required,"fieldset"!==n[r].nodeName.toLowerCase()&&l(n[r])},l=function(e){var t=e,a=g(t),n={type:t.getAttribute("type"),pattern:t.getAttribute("pattern"),placeholder:t.getAttribute("placeholder")},r=/^(email|url)$/i,s=/^(input|keyup)$/i,l=r.test(n.type)?n.type:n.pattern?n.pattern:!1,u=f(t,l),o=m(t,"step"),v=m(t,"min"),h=m(t,"max"),b=!(""===t.validationMessage||void 0===t.validationMessage);t.checkValidity=function(){return c.call(this,t)},t.setCustomValidity=function(e){d.call(t,e)},t.validity={valueMissing:a,patternMismatch:u,rangeUnderflow:v,rangeOverflow:h,stepMismatch:o,customError:b,valid:!(a||u||o||v||h||b)},n.placeholder&&!s.test(i)&&p(t)},u=function(e){var t=C(e)||e,a=/^(input|keyup|focusin|focus|change)$/i,r=/^(submit|image|button|reset)$/i,s=/^(checkbox|radio)$/i,o=!0;!L.test(t.nodeName)||r.test(t.type)||r.test(t.nodeName)||(i=e.type,v()||l(t),t.validity.valid&&(""!==t.value||s.test(t.type))||t.value!==t.getAttribute("placeholder")&&t.validity.valid?(A(t,[n.invalidClass,n.requiredClass]),N(t,n.validClass)):a.test(i)?t.validity.valueMissing&&A(t,[n.requiredClass,n.invalidClass,n.validClass]):t.validity.valueMissing?(A(t,[n.invalidClass,n.validClass]),N(t,n.requiredClass)):t.validity.valid||(A(t,[n.validClass,n.requiredClass]),N(t,n.invalidClass)),"input"===i&&o&&(y(t.form,"keyup",u,!0),o=!1))},c=function(t){var a,i,n,r,s=!1;if("form"===t.nodeName.toLowerCase()){a=t.elements;for(var l=0,o=a.length;o>l;l++)i=a[l],n=!!i.attributes.required,r=!!i.attributes.pattern,"fieldset"!==i.nodeName.toLowerCase()&&(n||r&&n)&&(u(i),i.validity.valid||s||(e&&i.focus(),s=!0));return!s}return u(t),t.validity.valid},d=function(e){var t=this;t.validationMessage=e},o=function(e){var a=C(e);a.attributes.formnovalidate&&"submit"===a.type&&(t=!0)},v=function(){return E(x,"validity")&&E(x,"checkValidity")},f=function(e,t){if("email"===t)return!q.test(e.value);if("url"===t)return!M.test(e.value);if(t){var i=e.getAttribute("placeholder"),n=e.value;return a=RegExp("^(?:"+t+")$"),n===i?!1:""===n?!1:!a.test(e.value)}return!1},p=function(e){var t={placeholder:e.getAttribute("placeholder")},a=/^(focus|focusin|submit)$/i,r=/^(input|textarea)$/i,s=/^password$/i,l=!!("placeholder"in x);l||!r.test(e.nodeName)||s.test(e.type)||(""!==e.value||a.test(i)?e.value===t.placeholder&&a.test(i)&&(e.value="",A(e,n.placeholderClass)):(e.value=t.placeholder,b(e.form,"submit",function(){i="submit",p(e)},!0),N(e,n.placeholderClass)))},m=function(e,t){var a=parseInt(e.getAttribute("min"),10)||0,i=parseInt(e.getAttribute("max"),10)||!1,n=parseInt(e.getAttribute("step"),10)||1,r=parseInt(e.value,10),s=(r-a)%n;return g(e)||isNaN(r)?"number"===e.getAttribute("type")?!0:!1:"step"===t?e.getAttribute("step")?0!==s:!1:"min"===t?e.getAttribute("min")?a>r:!1:"max"===t?e.getAttribute("max")?r>i:!1:void 0},h=function(e){var t=!!e.attributes.required;return t?g(e):!1},g=function(e){var t=e.getAttribute("placeholder"),a=/^(checkbox|radio)$/i,i=!!e.attributes.required;return!(!i||""!==e.value&&e.value!==t&&(!a.test(e.type)||$(e)))},b=function(e,t,a,i){E(window,"addEventListener")?e.addEventListener(t,a,i):E(window,"attachEvent")&&window.event!==void 0&&("blur"===t?t="focusout":"focus"===t&&(t="focusin"),e.attachEvent("on"+t,a))},y=function(e,t,a,i){E(window,"removeEventListener")?e.removeEventListener(t,a,i):E(window,"detachEvent")&&window.event!==void 0&&e.detachEvent("on"+t,a)},w=function(e){e=e||window.event,e.stopPropagation&&e.preventDefault?(e.stopPropagation(),e.preventDefault()):(e.cancelBubble=!0,e.returnValue=!1)},C=function(e){return e=e||window.event,e.target||e.srcElement},N=function(e,t){var a;e.className?(a=RegExp("(^|\\s)"+t+"(\\s|$)"),a.test(e.className)||(e.className+=" "+t)):e.className=t},A=function(e,t){var a,i,n="object"==typeof t?t.length:1,r=n;if(e.className)if(e.className===t)e.className="";else for(;n--;)a=RegExp("(^|\\s)"+(r>1?t[n]:t)+"(\\s|$)"),i=e.className.match(a),i&&3===i.length&&(e.className=e.className.replace(a,i[1]&&i[2]?" ":""))},E=function(e,t){var a=typeof e[t],i=RegExp("^function|object$","i");return!!(i.test(a)&&e[t]||"unknown"===a)},$=function(e){for(var t=document.getElementsByName(e.name),a=0;t.length>a;a++)if(t[a].checked)return!0;return!1},{setup:r}});
+
+    </script></head>
+<body class="ss-base-body" dir="ltr">
+
+<div class="ss-form-container"><div class="ss-top-of-page">
+
+
+<div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr">SLAGICS 2013: ALGI and SLACS join Forces</h1>
+<div class="ss-form-desc ss-no-ignore-whitespace">可能なら日本語でご回答ください．<br>Answers can be in English or Japanese. Thanks!<br></div>
+
+<hr class="ss-email-break" style="display:none;">
+<div class="ss-required-asterisk">*必須</div></div></div>
+<div class="ss-form"><form action="https://docs.google.com/forms/d/1rQmLsb03HXul4457MqLUDwYdyf7_iubitdT6Coo74YM/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol style="padding-left: 0">
+<div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_365263185"><div class="ss-q-title">Name
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input name="entry.365263185" class="ss-q-short" id="entry_365263185" dir="auto" aria-required="true" required="" title="" type="text">
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_421099081"><div class="ss-q-title">Affiliation
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr">e.g. University of Foo, ほげ大</div></label>
+<input name="entry.421099081" class="ss-q-short" id="entry_421099081" dir="auto" aria-required="true" required="" title="" type="text">
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_2134614672"><div class="ss-q-title">Department
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr">e.g. Dept. of Mathematics, 理，情報理工</div></label>
+<input name="entry.2134614672" class="ss-q-short" id="entry_2134614672" dir="auto" aria-required="true" required="" title="" type="text">
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1700124244"><div class="ss-q-title">Job rank
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr">P: professor, AP: 
+associate professor, L: lecturer, A: assistant professor, PD: 
+postdoctoral researcher, D: PhD candidate, M: Master student. RIMS 
+requires this data; sorry :-(</div></label>
+
+<ul class="ss-choices"><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="P" id="group_1455168910_1" class="ss-q-radio" aria-label="P" required="" type="radio"></span>
+<span class="ss-choice-label">P</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="AP" id="group_1455168910_2" class="ss-q-radio" aria-label="AP" required="" type="radio"></span>
+<span class="ss-choice-label">AP</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="L" id="group_1455168910_3" class="ss-q-radio" aria-label="L" required="" type="radio"></span>
+<span class="ss-choice-label">L</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="A" id="group_1455168910_4" class="ss-q-radio" aria-label="A" required="" type="radio"></span>
+<span class="ss-choice-label">A</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="PD" id="group_1455168910_5" class="ss-q-radio" aria-label="PD" required="" type="radio"></span>
+<span class="ss-choice-label">PD</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="D" id="group_1455168910_6" class="ss-q-radio" aria-label="D" required="" type="radio"></span>
+<span class="ss-choice-label">D</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="M" id="group_1455168910_7" class="ss-q-radio" aria-label="M" required="" type="radio"></span>
+<span class="ss-choice-label">M</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input name="entry.1455168910" value="__other_option__" id="group_1455168910_8" class="ss-q-radio ss-q-other-toggle" type="radio"></span>
+その他:</label>
+<span class="ss-q-other-container goog-inline-block"><input name="entry.1455168910.other_option_response" class="ss-q-other" id="entry_1455168910_other_option_response" dir="auto" aria-label="その他" type="text"></span>
+</li></ul>
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1044141924"><div class="ss-q-title">Email
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input name="entry.1044141924" class="ss-q-short" id="entry_1044141924" dir="auto" aria-required="true" required="" title="" type="text">
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_572167154"><div class="ss-q-title">Website
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input name="entry.572167154" class="ss-q-short" id="entry_572167154" dir="auto" title="" type="text">
+<div class="error-message"></div>
+<div class="required-message">この質問は必須です</div>
+
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-select"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1185843514"><div class="ss-q-title">Join banquet? (Tue 24 Sep)
+<label for="itemView.getDomIdToLabel()" aria-label="（必須）"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<select name="entry.1185843514" id="entry_1185843514" aria-required="true" required=""><option selected="selected" value=""></option>
+<option value="Yes">Yes</option> <option value="No">No</option></select>
+<div class="required-message">この質問は必須です</div>
+</div></div></div>
+<input name="draftResponse" value="[]
+" type="hidden">
+<input name="pageHistory" value="0" type="hidden">
+
+
+<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+<input name="continue" value="続行 »" id="ss-submit" type="submit"></td>
+</tr></tbody></table></div></ol></form></div>
+<div class="ss-footer"><div class="ss-attribution"></div>
+<div class="ss-legal"><div class="disclaimer-separator"></div>
+<div class="disclaimer" dir="ltr"><div class="powered-by-logo"><span class="powered-by-text">Powered by</span>
+<a class="ss-logo-link" href="http://docs.google.com/"><img class="ss-logo" src="viewform_data/drive_logo_small.png" alt="Google ドライブ"></a></div>
+<div class="ss-terms"><span class="disclaimer-msg">このコンテンツは Google が作成または承認したものではありません。</span>
+<br>
+<a href="https://docs.google.com/forms/d/1rQmLsb03HXul4457MqLUDwYdyf7_iubitdT6Coo74YM/reportabuse?source=https://docs.google.com/forms/d/1rQmLsb03HXul4457MqLUDwYdyf7_iubitdT6Coo74YM/viewform?embedded%3Dtrue">不正行為の報告</a>
+-
+<a href="http://www.google.com/accounts/TOS">利用規約</a>
+-
+<a href="http://www.google.com/google-d-s/terms.html">追加規約</a></div></div></div></div>
+
+<div id="docs-aria-speakable" class="docs-a11y-ariascreenreader-speakable docs-offscreen" aria-live="assertive" role="region" aria-atomic="">スクリーンリーダーのサポートを有効にしました。</div></div>
+
+<script type="text/javascript" src="viewform_data/1275339351-formviewer_prd__ja.js"></script>
+<script type="text/javascript">H5F.setup(document.getElementById('ss-form'));_initFormViewer(
+        "[12,\x22#ccc\x22,[]\n]\n");
+    </script></body></html>
