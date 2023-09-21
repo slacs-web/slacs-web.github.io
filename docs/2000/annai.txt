@@ -1,0 +1,137 @@
+<head>
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html;charset=EUC-JP">
+</head>
+<pre>
+
+  今年の記号論理学と情報科学 研究集会（ＳＬＡＣＳ）のプログラムをお送
+りします．今年も，論理と計算の境界領域に関し，多数の興味深い講演がなさ
+れる予定です．関心をお持ちの多くの皆様の参加をお待ちしております．
+
+
+	＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+	＊						＊
+	＊    第１７回 記号論理学と情報科学 研究集会	＊
+	＊	　   ＳＬＡＣＳ２０００			＊
+	＊						＊
+	＊  	     期間  2000/9/27-29			＊
+	＊	     場所  京都大学 数学教室		＊
+	＊  http://www.sato.kuis.kyoto-u.ac.jp/SLACS/	＊
+	＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+  ＳＬＡＣＳは，記号論理学，計算機科学の基礎理論の研究者の交流を目的と
+して発足した研究会です．現在では，対象とする領域は，各種の論理/形式的
+体系，意味論，計算系，λ計算，型理論，圏論，項書換え系，計算可能数学，
+計算の複雑さ，及び，これらの応用などを含み，多くの研究者，学生の交流の
+場となっています．参加者自らの手作りによるアットホームな雰囲気の会合で
+あり，発表後の質疑討論を重視していますので，他の分野の研究者や，学生な
+どの初学者にも参加しやすい会です．
+
+   発表・聴講は無料です．
+
+チュートリアル
+==============
+
+  9/28 (木) 14:00--15:00 
+  高橋正子 （国際基督教大学）
+  証明と型
+  
+  theoretical computer science は難しすぎるという声を時々耳にします．
+  私の考えでは，tcs は底の浅い分野ではないから当然だという気持ちと，
+  もう一つは，歴史の浅さやその他の事情から未成熟な部分をいろいろ抱え
+  たまま教育が行われているためではないかという気がします．この後者の
+  観点から，「証明と型」と「計算論」に関する私のささやかな試みについ
+  てお話してみたいと思います．
+
+
+プログラム
+==========
+
+9/27(水)
+14:00--14:10
+  オープニング
+
+14:10--15:20
+  中野浩 （龍谷大学理工学部）
+  近似様相による構成的プログラミング
+  Constructive programming with approximation modality
+
+  横内寛文 （群馬大学工学部情報工学科）
+  Refinement typeの型チェック・アルゴリズムとその実装
+  Type checking algorithms for refinement types and their implementation
+
+15:35--17:20
+  坂本伸幸 （東北大学大学院理学研究科数学専攻）
+  新たなcountable functionalの構成法
+  A new construction of countable functionals
+
+  毛利元彦 （北陸先端科学技術大学院大学情報科学研究科）
+  XPE with Theorem Provers
+
+  竹内泉 （京都大学情報学研究科）
+  ω正則言語の測度が有理数であること
+  The measure of an omega-regular language is a rational number
+
+9/28(木)
+ 9:30--10:40
+  藤田憲悦（島根大学），A. Middeldorp （筑波大学）
+  同期項書き換え系
+  Synchronized Term Rewriting Systems
+
+  山田俊行 （筑波大学電子・情報工学系）
+  単純型付き項書き換え系の停止性
+  Termination of Symply Typed Term Rewriting Systems
+
+10:55-12:40
+  近藤通朗 （島根大学総合理工学部）
+  weak interlaced bilattice の構造について
+  On structures of weak interlaced bilattices
+
+  下田守 （下関市立大学）
+  ファジィ関係の一般化について
+  On a generalization of fuzzy relation
+
+  白旗優 （慶應義塾大学商学部）
+  ゲーデルのダイアレクティカ解釈とゲーム意味論
+  Goedel's Dialectica interpretation and game semantics
+
+14:00--15:00 
+  高橋正子 （国際基督教大学）
+  チュートリアル：証明と型
+
+15:15--16:25
+  鹿島亮 （東京工業大学情報理工学研究科数理・計算科学専攻）
+  ラムダ計算の標準化定理の簡単な証明
+  Simple proof of the standardization theorem in lambda-calculus 
+
+  馬場謙介 （九州大学大学院システム情報科学研究科情報理学専攻）
+  場合分けによる証明
+  Case Calculus for Classical Logic
+
+16:40--17:50
+  廣川佐千男 （九州大学）
+  長Ｄ正規形と証明図の唯一性
+  Long D-normal form and uniqueness of proofs
+
+  角谷良彦 （京都大学数理解析研究所）
+  Duality between Call-by-name Recursion and Call-by-value Iteration
+
+夕刻: 懇親会
+
+9/29(金)
+ 9:30--10:40
+  上出哲広 （和歌山工業高等専門学校電子工学科）
+  Mingleを持つ部分構造論理
+  Substructural Logics with Mingle
+
+  佐々木克巳 （南山大学数理情報学部）
+  Propositional lax logic  における選言のない論理式について 
+  Exact models for disjunction free fragments of propositional lax logic  
+
+10:50--12:00
+  田中義人 （九州産業大学経済学部）
+  Some proof systems for common knowledge predicate logic
+
+  John Longley (Edinburgh University)
+  Programming languages and notions of computability
+--------------------------------------------------------------------------
+</pre>
