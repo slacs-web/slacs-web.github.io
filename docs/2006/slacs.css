@@ -1,0 +1,20 @@
+/* SLACS 2006 */
+
+* { color: inherit; background-color: transparent; }
+body { color: #000000; background-color: #FFFFFF; }
+h1,h2,h3,h4,h5,h6 { color: #559955; }
+th { color: #CC3300; }
+a { color: #559955; }
+a:hover { color: #3366FF; }
+table { border-collapse: separate; }
+th,td { border-style: none; text-align: left; vertical-align: top; }
+dt { font-weight: normal; }
+strong { color: #CC3300; font-weight: bolder; }
+a:hover strong { color: #3366FF; }
+.address { font-family: monospace; }
+.footer { text-align: right; }
+.warning { color: #FF0000; }
+.note { font-size: small; color: #666666; }
+.title { color: #CC3300; }
+.name { color: #559955; }
+.abst { color: #666666; }
