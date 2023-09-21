@@ -1,0 +1,40 @@
+body {
+	background-color:#ebebeb;
+	margin:20px;
+	text-align:left;
+}
+.outline {
+	width : 750px;
+	padding: 0 13px 0 17px;
+	text-align : left;
+	margin: 0 auto;
+	background-color: #ffffff;
+	background-repeat:repeat-y;
+}
+a:link, a:visited {
+	text-decoration:none;
+}
+a:link {
+	color:#0066ff;
+}
+a:visited {
+	color:#8040a0;
+}
+a:hover, a:active {
+	color:#fe0009;
+}
+
+h1 {
+	color:#737373;
+	font-size:200%;
+	border-bottom:solid 5px #009999;
+	padding-left:10px;
+}
+h2 {
+	color:#737373;
+	font-size:150%;
+}
+h3 {
+	font-size: 120%;
+	color:#009999;
+}
