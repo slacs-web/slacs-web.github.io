@@ -1,134 +1,131 @@
-<head>
-<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html;charset=EUC-JP">
-</head>
 <pre>
 
-  º£Ç¯¤Îµ­¹æÏÀÍý³Ø¤È¾ðÊó²Ê³Ø ¸¦µæ½¸²ñ¡Ê£Ó£Ì£Á£Ã£Ó¡Ë¤Î¥×¥í¥°¥é¥à¤ò¤ªÁ÷
-¤ê¤·¤Þ¤¹¡¥º£Ç¯¤â¡¤ÏÀÍý¤È·×»»¤Î¶­³¦ÎÎ°è¤Ë´Ø¤·¡¤Â¿¿ô¤Î¶½Ì£¿¼¤¤¹Ö±é¤¬¤Ê¤µ
-¤ì¤ëÍ½Äê¤Ç¤¹¡¥´Ø¿´¤ò¤ª»ý¤Á¤ÎÂ¿¤¯¤Î³§ÍÍ¤Î»²²Ã¤ò¤ªÂÔ¤Á¤·¤Æ¤ª¤ê¤Þ¤¹¡¥
+  å¹´ 
+å¹´å¤šå‘³
+äºˆå¤š
 
 
-	¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö
-	¡ö						¡ö
-	¡ö    Âè£±£·²ó µ­¹æÏÀÍý³Ø¤È¾ðÊó²Ê³Ø ¸¦µæ½¸²ñ	¡ö
-	¡ö	¡¡   £Ó£Ì£Á£Ã£Ó£²£°£°£°			¡ö
-	¡ö						¡ö
-	¡ö  	     ´ü´Ö  2000/9/27-29			¡ö
-	¡ö	     ¾ì½ê  µþÅÔÂç³Ø ¿ô³Ø¶µ¼¼		¡ö
-	¡ö  http://www.sato.kuis.kyoto-u.ac.jp/SLACS/	¡ö
-	¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö
+	
+							
+	      	
+		   			
+							
+	  	       2000/9/27-29			
+		        		
+	  http://www.sato.kuis.kyoto-u.ac.jp/SLACS/	
+	
 
-  £Ó£Ì£Á£Ã£Ó¤Ï¡¤µ­¹æÏÀÍý³Ø¡¤·×»»µ¡²Ê³Ø¤Î´ðÁÃÍýÏÀ¤Î¸¦µæ¼Ô¤Î¸òÎ®¤òÌÜÅª¤È
-¤·¤ÆÈ¯Â­¤·¤¿¸¦µæ²ñ¤Ç¤¹¡¥¸½ºß¤Ç¤Ï¡¤ÂÐ¾Ý¤È¤¹¤ëÎÎ°è¤Ï¡¤³Æ¼ï¤ÎÏÀÍý/·Á¼°Åª
-ÂÎ·Ï¡¤°ÕÌ£ÏÀ¡¤·×»»·Ï¡¤¦Ë·×»»¡¤·¿ÍýÏÀ¡¤·÷ÏÀ¡¤¹à½ñ´¹¤¨·Ï¡¤·×»»²ÄÇ½¿ô³Ø¡¤
-·×»»¤ÎÊ£»¨¤µ¡¤µÚ¤Ó¡¤¤³¤ì¤é¤Î±þÍÑ¤Ê¤É¤ò´Þ¤ß¡¤Â¿¤¯¤Î¸¦µæ¼Ô¡¤³ØÀ¸¤Î¸òÎ®¤Î
-¾ì¤È¤Ê¤Ã¤Æ¤¤¤Þ¤¹¡¥»²²Ã¼Ô¼«¤é¤Î¼êºî¤ê¤Ë¤è¤ë¥¢¥Ã¥È¥Û¡¼¥à¤ÊÊ·°Ïµ¤¤Î²ñ¹ç¤Ç
-¤¢¤ê¡¤È¯É½¸å¤Î¼Áµ¿Æ¤ÏÀ¤ò½Å»ë¤·¤Æ¤¤¤Þ¤¹¤Î¤Ç¡¤Â¾¤ÎÊ¬Ìî¤Î¸¦µæ¼Ô¤ä¡¤³ØÀ¸¤Ê
-¤É¤Î½é³Ø¼Ô¤Ë¤â»²²Ã¤·¤ä¤¹¤¤²ñ¤Ç¤¹¡¥
+  æµçš„
+ç™ºè¶³/çš„
+å‘³èƒ½
+è¤‡å¤šæµ
+é›°
+ç™ºè¡¨è¨Žä»–åˆ†
 
-   È¯É½¡¦Ä°¹Ö¤ÏÌµÎÁ¤Ç¤¹¡¥
 
-¥Á¥å¡¼¥È¥ê¥¢¥ë
+   ç™ºè¡¨è´ç„¡
+
+
 ==============
 
-  9/28 (ÌÚ) 14:00--15:00 
-  ¹â¶¶Àµ»Ò ¡Ê¹ñºÝ´ðÆÄ¶µÂç³Ø¡Ë
-  ¾ÚÌÀ¤È·¿
+  9/28 () 14:00--15:00 
+   
   
-  theoretical computer science ¤ÏÆñ¤·¤¹¤®¤ë¤È¤¤¤¦À¼¤ò»þ¡¹¼ª¤Ë¤·¤Þ¤¹¡¥
-  »ä¤Î¹Í¤¨¤Ç¤Ï¡¤tcs ¤ÏÄì¤ÎÀõ¤¤Ê¬Ìî¤Ç¤Ï¤Ê¤¤¤«¤éÅöÁ³¤À¤È¤¤¤¦µ¤»ý¤Á¤È¡¤
-  ¤â¤¦°ì¤Ä¤Ï¡¤Îò»Ë¤ÎÀõ¤µ¤ä¤½¤ÎÂ¾¤Î»ö¾ð¤«¤éÌ¤À®½Ï¤ÊÉôÊ¬¤ò¤¤¤í¤¤¤íÊú¤¨
-  ¤¿¤Þ¤Þ¶µ°é¤¬¹Ô¤ï¤ì¤Æ¤¤¤ë¤¿¤á¤Ç¤Ï¤Ê¤¤¤«¤È¤¤¤¦µ¤¤¬¤·¤Þ¤¹¡¥¤³¤Î¸å¼Ô¤Î
-  ´ÑÅÀ¤«¤é¡¤¡Ö¾ÚÌÀ¤È·¿¡×¤È¡Ö·×»»ÏÀ¡×¤Ë´Ø¤¹¤ë»ä¤Î¤µ¤µ¤ä¤«¤Ê»î¤ß¤Ë¤Ä¤¤
-  ¤Æ¤ªÏÃ¤·¤Æ¤ß¤¿¤¤¤È»×¤¤¤Þ¤¹¡¥
+  
+  theoretical computer science 
+  tcs åˆ†
+  ä»–æœªåˆ†
+  
+  
+  
 
 
-¥×¥í¥°¥é¥à
+
 ==========
 
-9/27(¿å)
+9/27()
 14:00--14:10
-  ¥ª¡¼¥×¥Ë¥ó¥°
+  
 
 14:10--15:20
-  ÃæÌî¹À ¡ÊÎ¶Ã«Âç³ØÍý¹©³ØÉô¡Ë
-  ¶á»÷ÍÍÁê¤Ë¤è¤ë¹½À®Åª¥×¥í¥°¥é¥ß¥ó¥°
+   é¾è°·
+  çš„
   Constructive programming with approximation modality
 
-  ²£Æâ´²Ê¸ ¡Ê·²ÇÏÂç³Ø¹©³ØÉô¾ðÊó¹©³Ø²Ê¡Ë
-  Refinement type¤Î·¿¥Á¥§¥Ã¥¯¡¦¥¢¥ë¥´¥ê¥º¥à¤È¤½¤Î¼ÂÁõ
+  æ–‡ 
+  Refinement type
   Type checking algorithms for refinement types and their implementation
 
 15:35--17:20
-  ºäËÜ¿­¹¬ ¡ÊÅìËÌÂç³ØÂç³Ø±¡Íý³Ø¸¦µæ²Ê¿ô³ØÀì¹¶¡Ë
-  ¿·¤¿¤Êcountable functional¤Î¹½À®Ë¡
+   
+  countable functionalæ³•
   A new construction of countable functionals
 
-  ÌÓÍø¸µÉ§ ¡ÊËÌÎ¦ÀèÃ¼²Ê³Øµ»½ÑÂç³Ø±¡Âç³Ø¾ðÊó²Ê³Ø¸¦µæ²Ê¡Ë
+  å½¦ é™¸ç«¯
   XPE with Theorem Provers
 
-  ÃÝÆâÀô ¡ÊµþÅÔÂç³Ø¾ðÊó³Ø¸¦µæ²Ê¡Ë
-  ¦ØÀµÂ§¸À¸ì¤ÎÂ¬ÅÙ¤¬Í­Íý¿ô¤Ç¤¢¤ë¤³¤È
+   
+  å‰‡æ¸¬æœ‰
   The measure of an omega-regular language is a rational number
 
-9/28(ÌÚ)
+9/28()
  9:30--10:40
-  Æ£ÅÄ·û±Ù¡ÊÅçº¬Âç³Ø¡Ë¡¤A. Middeldorp ¡ÊÃÞÇÈÂç³Ø¡Ë
-  Æ±´ü¹à½ñ¤­´¹¤¨·Ï
+  è—¤A. Middeldorp 
+  åŒ
   Synchronized Term Rewriting Systems
 
-  »³ÅÄ½Ó¹Ô ¡ÊÃÞÇÈÂç³ØÅÅ»Ò¡¦¾ðÊó¹©³Ø·Ï¡Ë
-  Ã±½ã·¿ÉÕ¤­¹à½ñ¤­´¹¤¨·Ï¤ÎÄä»ßÀ­
+   
+  å˜
   Termination of Symply Typed Term Rewriting Systems
 
 10:55-12:40
-  ¶áÆ£ÄÌÏ¯ ¡ÊÅçº¬Âç³ØÁí¹çÍý¹©³ØÉô¡Ë
-  weak interlaced bilattice ¤Î¹½Â¤¤Ë¤Ä¤¤¤Æ
+  è—¤æœ— 
+  weak interlaced bilattice é€ 
   On structures of weak interlaced bilattices
 
-  ²¼ÅÄ¼é ¡Ê²¼´Ø»ÔÎ©Âç³Ø¡Ë
-  ¥Õ¥¡¥¸¥£´Ø·¸¤Î°ìÈÌ²½¤Ë¤Ä¤¤¤Æ
+   ç«‹
+  
   On a generalization of fuzzy relation
 
-  Çò´úÍ¥ ¡Ê·ÄØæµÁ½ÎÂç³Ø¾¦³ØÉô¡Ë
-  ¥²¡¼¥Ç¥ë¤Î¥À¥¤¥¢¥ì¥¯¥Æ¥£¥«²ò¼á¤È¥²¡¼¥à°ÕÌ£ÏÀ
+  å„ª 
+  å‘³
   Goedel's Dialectica interpretation and game semantics
 
 14:00--15:00 
-  ¹â¶¶Àµ»Ò ¡Ê¹ñºÝ´ðÆÄ¶µÂç³Ø¡Ë
-  ¥Á¥å¡¼¥È¥ê¥¢¥ë¡§¾ÚÌÀ¤È·¿
+   
+  
 
 15:15--16:25
-  ¼¯ÅçÎ¼ ¡ÊÅìµþ¹©¶ÈÂç³Ø¾ðÊóÍý¹©³Ø¸¦µæ²Ê¿ôÍý¡¦·×»»²Ê³ØÀì¹¶¡Ë
-  ¥é¥à¥À·×»»¤ÎÉ¸½à²½ÄêÍý¤Î´ÊÃ±¤Ê¾ÚÌÀ
+  äº® 
+  æ¨™å˜
   Simple proof of the standardization theorem in lambda-calculus 
 
-  ÇÏ¾ì¸¬²ð ¡Ê¶å½£Âç³ØÂç³Ø±¡¥·¥¹¥Æ¥à¾ðÊó²Ê³Ø¸¦µæ²Ê¾ðÊóÍý³ØÀì¹¶¡Ë
-  ¾ì¹çÊ¬¤±¤Ë¤è¤ë¾ÚÌÀ
+   
+  åˆ†
   Case Calculus for Classical Logic
 
 16:40--17:50
-  ×¢Àîº´ÀéÃË ¡Ê¶å½£Âç³Ø¡Ë
-  Ä¹£ÄÀµµ¬·Á¤È¾ÚÌÀ¿Þ¤ÎÍ£°ìÀ­
+  å»£ 
+  é•·å”¯
   Long D-normal form and uniqueness of proofs
 
-  ³ÑÃ«ÎÉÉ§ ¡ÊµþÅÔÂç³Ø¿ôÍý²òÀÏ¸¦µæ½ê¡Ë
+  è°·å½¦ 
   Duality between Call-by-name Recursion and Call-by-value Iteration
 
-Í¼¹ï: º©¿Æ²ñ
+å¤•: 
 
-9/29(¶â)
+9/29()
  9:30--10:40
-  ¾å½ÐÅ¯¹­ ¡ÊÏÂ²Î»³¹©¶È¹âÅùÀìÌç³Ø¹»ÅÅ»Ò¹©³Ø²Ê¡Ë
-  Mingle¤ò»ý¤ÄÉôÊ¬¹½Â¤ÏÀÍý
+  å“² 
+  Mingleåˆ†é€ 
   Substructural Logics with Mingle
 
-  º´¡¹ÌÚ¹îÌ¦ ¡ÊÆî»³Âç³Ø¿ôÍý¾ðÊó³ØÉô¡Ë
-  Propositional lax logic  ¤Ë¤ª¤±¤ëÁª¸À¤Î¤Ê¤¤ÏÀÍý¼°¤Ë¤Ä¤¤¤Æ 
+  å·³ 
+  Propositional lax logic   
   Exact models for disjunction free fragments of propositional lax logic  
 
 10:50--12:00
-  ÅÄÃæµÁ¿Í ¡Ê¶å½£»º¶ÈÂç³Ø·ÐºÑ³ØÉô¡Ë
+   
   Some proof systems for common knowledge predicate logic
 
   John Longley (Edinburgh University)

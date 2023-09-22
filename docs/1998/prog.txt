@@ -1,124 +1,123 @@
 <html>
 <head>
 <title>SLACS98 program</title>
-<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html;charset=Shift_JIS">
 </head>
 
 <pre>
-@@@‚r‚k‚`‚b‚r‚X‚WƒvƒƒOƒ‰ƒ€
+ã€€ã€€ã€€ï¼³ï¼¬ï¼¡ï¼£ï¼³ï¼™ï¼˜ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 
-10/14(…)
-13:30--14:30i“Á•Êu‰‰j
-@ƒoƒCƒAƒ}ƒ“=A.iƒ~ƒ…ƒ“ƒXƒ^[‘åŠwj
-@@uƒQ[ƒfƒ‹‚Ì‘ÌŒn‚s‚ÌŒvŽZ—ñ‚Ì’·‚³‚ÌŒµ‚µ‚¢ãŒÀv
+10/14(æ°´)
+13:30--14:30ï¼ˆç‰¹åˆ¥è¬›æ¼”ï¼‰
+ã€€ãƒã‚¤ã‚¢ãƒžãƒ³=A.ï¼ˆãƒŸãƒ¥ãƒ³ã‚¹ã‚¿ãƒ¼å¤§å­¦ï¼‰
+ã€€ã€€ã€Œã‚²ãƒ¼ãƒ‡ãƒ«ã®ä½“ç³»ï¼´ã®è¨ˆç®—åˆ—ã®é•·ã•ã®åŽ³ã—ã„ä¸Šé™ã€
 
-‹xŒe
+ä¼‘æ†©
 
 14:45--15:15
-@Žu‘º—§–îi“ú–{‘åŠw—HŠw•”j
-@@uA semantics of Kashima's connection calculus for the logic of constant
-	domainv
+ã€€å¿—æ‘ç«‹çŸ¢ï¼ˆæ—¥æœ¬å¤§å­¦ç†å·¥å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒA semantics of Kashima's connection calculus for the logic of constant
+	domainã€
 15:15--16:05
-@‰iŽR‘€i“Œ‹ž—Žq‘åŠw•¶—Šw•”j‰ª“cŒõOiŒc‰ž‘åŠw•¶Šw•”j
-@@uGraph-theoretic characterizations of proof nets in non-commutative linear
-	logics and their computational complexityv
+ã€€æ°¸å±±æ“ï¼ˆæ±äº¬å¥³å­å¤§å­¦æ–‡ç†å­¦éƒ¨ï¼‰å²¡ç”°å…‰å¼˜ï¼ˆæ…¶å¿œå¤§å­¦æ–‡å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒGraph-theoretic characterizations of proof nets in non-commutative linear
+	logics and their computational complexityã€
 
-‹xŒe
+ä¼‘æ†©
 
 16:20--16:50
-@˜j—CA‹{˜­–¾i–kŠC“¹‘åŠw‘åŠw‰@HŠwŒ¤‹†‰Èj’†ŒËìFŽ¡i–kŠC“¹‘åŠw•¶Šw•”j
-@@uMultiplicative / Additive Connectives for Deontic Logicv
+ã€€äº˜ç†ä¿®ã€å®®è…°æ”¿æ˜Žï¼ˆåŒ—æµ·é“å¤§å­¦å¤§å­¦é™¢å·¥å­¦ç ”ç©¶ç§‘ï¼‰ä¸­æˆ¸å·å­æ²»ï¼ˆåŒ—æµ·é“å¤§å­¦æ–‡å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒMultiplicative / Additive Connectives for Deontic Logicã€
 16:50--17:40
-@‰º“cŽçi‰ºŠÖŽs—§‘åŠwj
-@@uƒtƒ@ƒWƒB“¯’lŠÖŒW‚ð‚ß‚®‚Á‚Äv
+ã€€ä¸‹ç”°å®ˆï¼ˆä¸‹é–¢å¸‚ç«‹å¤§å­¦ï¼‰
+ã€€ã€€ã€Œãƒ•ã‚¡ã‚¸ã‚£åŒå€¤é–¢ä¿‚ã‚’ã‚ãã£ã¦ã€
 
-10/15(–Ø)
+10/15(æœ¨)
 9:45--10:15
-@‚–Ø—(‹ž“sŽY‹Æ‘åŠwj
-@@u‹A”[“I’è‹`‚ðŽ‚ÂŽZp‚ÌŽ©‘R‰‰ãˆ‚ÉŠÖ‚·‚é³‹K‰»«‚É‚Â‚¢‚Äv
+ã€€é«˜æœ¨ç†(äº¬éƒ½ç”£æ¥­å¤§å­¦ï¼‰
+ã€€ã€€ã€Œå¸°ç´çš„å®šç¾©ã‚’æŒã¤ç®—è¡“ã®è‡ªç„¶æ¼”ç¹¹ã«é–¢ã™ã‚‹æ­£è¦åŒ–æ€§ã«ã¤ã„ã¦ã€
 10:15--10:45
-@•½ˆä’°i_ŒË‘åŠwŽ©‘R‰ÈŠwŒ¤‹†‰Èj
-@@uTemporal Linear Logic ‚Æ Timed Petri Net ‚É‚Â‚¢‚Äv
+ã€€å¹³äº•å´‡æ™´ï¼ˆç¥žæˆ¸å¤§å­¦è‡ªç„¶ç§‘å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€ŒTemporal Linear Logic ã¨ Timed Petri Net ã«ã¤ã„ã¦ã€
 10:45--11:15
-@“c•Ó½i‰ÈŠw‹ZpU‹»Ž–‹Æ’c‚³‚«‚ª‚¯‚Q‚P^(à)‹ž“s‚“x‹ZpŒ¤‹†Šj
-@@uƒŠƒAƒNƒeƒBƒuƒVƒXƒeƒ€‚ÌŠÏŽ@F’¼ŠÏŽå‹`—l‘Š˜_—‚É‚æ‚éƒAƒvƒ[ƒ`v
+ã€€ç”°è¾ºèª ï¼ˆç§‘å­¦æŠ€è¡“æŒ¯èˆˆäº‹æ¥­å›£ã•ããŒã‘ï¼’ï¼‘ï¼(è²¡)äº¬éƒ½é«˜åº¦æŠ€è¡“ç ”ç©¶æ‰€ï¼‰
+ã€€ã€€ã€Œãƒªã‚¢ã‚¯ãƒ†ã‚£ãƒ–ã‚·ã‚¹ãƒ†ãƒ ã®è¦³å¯Ÿï¼šç›´è¦³ä¸»ç¾©æ§˜ç›¸è«–ç†ã«ã‚ˆã‚‹ã‚¢ãƒ—ãƒ­ãƒ¼ãƒã€
 
-‹xŒe
+ä¼‘æ†©
 
 11:30-12:00
-@“nç²Gi“dŽq‹Zp‘‡Œ¤‹†Šj
-@@u‘JˆÚŒn‚Æ‘o–Í•í€“¯Œ^‚ÌŒ—‚Ì\‘¢v
+ã€€æ¸¡é‚Šå®ï¼ˆé›»å­æŠ€è¡“ç·åˆç ”ç©¶æ‰€ï¼‰
+ã€€ã€€ã€Œé·ç§»ç³»ã¨åŒæ¨¡å€£æº–åŒåž‹ã®åœã®æ§‹é€ ã€
 12:00-12:30
-@²“¡L–çi“Œ‹ž—‰È‘åŠw—HŠwŒ¤‹†‰Èj™–{“Oi“Œ‹ž—‰È‘åŠw—HŠw•”j
-@@uüŒ`˜_—‚ÌŒvŽZ“I‰ðŽß‚ÉŠî‚Ã‚­•À—ñŽÀs‰Â”\‚ÈƒÉŒvŽZ‚Ì call-by-value •]‰¿Šív
+ã€€ä½è—¤ä¼¸ä¹Ÿï¼ˆæ±äº¬ç†ç§‘å¤§å­¦ç†å·¥å­¦ç ”ç©¶ç§‘ï¼‰æ‰æœ¬å¾¹ï¼ˆæ±äº¬ç†ç§‘å¤§å­¦ç†å·¥å­¦éƒ¨ï¼‰
+ã€€ã€€ã€Œç·šå½¢è«–ç†ã®è¨ˆç®—çš„è§£é‡ˆã«åŸºã¥ãä¸¦åˆ—å®Ÿè¡Œå¯èƒ½ãªÎ»è¨ˆç®—ã® call-by-value è©•ä¾¡å™¨ã€
 
-‹xŒe
+ä¼‘æ†©
 
-13:30--14:30i“Á•Êu‰‰j
-@ƒEƒFƒCƒi[=S.S.iƒŠ[ƒY‘åŠwj
-@@uØ–¾˜_‚Æ•¡ŽG‚³v
+13:30--14:30ï¼ˆç‰¹åˆ¥è¬›æ¼”ï¼‰
+ã€€ã‚¦ã‚§ã‚¤ãƒŠãƒ¼=S.S.ï¼ˆãƒªãƒ¼ã‚ºå¤§å­¦ï¼‰
+ã€€ã€€ã€Œè¨¼æ˜Žè«–ã¨è¤‡é›‘ã•ã€
 
-‹xŒe
+ä¼‘æ†©
 
 14:45--15:15
-@“¡“cŒ›‰xi‹ãBH‹Æ‘åŠwî•ñHŠw•”j
-@@u2nd Order Lambda-Mu-Calculus of Call-by-Valuev
+ã€€è—¤ç”°æ†²æ‚¦ï¼ˆä¹å·žå·¥æ¥­å¤§å­¦æƒ…å ±å·¥å­¦éƒ¨ï¼‰
+ã€€ã€€ã€Œ2nd Order Lambda-Mu-Calculus of Call-by-Valueã€
 15:15--16:15
-@¬•ûˆê˜Yi“dŽq‹Zp‘‡Œ¤‹†Šj
-@@uLK ‚Ì cut elimination ‚Æ‚µ‚Ä‚ÌƒÉƒÊŒvŽZv
+ã€€å°æ–¹ä¸€éƒŽï¼ˆé›»å­æŠ€è¡“ç·åˆç ”ç©¶æ‰€ï¼‰
+ã€€ã€€ã€ŒLK ã® cut elimination ã¨ã—ã¦ã®Î»Î¼è¨ˆç®—ã€
 
-‹xŒe
+ä¼‘æ†©
 
 16:30--17:00
-@‹TŽRK‹`i‹ž“s‘åŠwî•ñŠwŒ¤‹†‰Èj
-@@uŒÃ“T“I Catch/Throw ‘ÌŒn‚Ì‹­³‹K‰»‰Â”\«‚ÌŠÈ’P‚ÈØ–¾v
+ã€€äº€å±±å¹¸ç¾©ï¼ˆäº¬éƒ½å¤§å­¦æƒ…å ±å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€Œå¤å…¸çš„ Catch/Throw ä½“ç³»ã®å¼·æ­£è¦åŒ–å¯èƒ½æ€§ã®ç°¡å˜ãªè¨¼æ˜Žã€
 17:00--17:30
-@”nêŒª‰îi‹ãB‘åŠwƒVƒXƒeƒ€î•ñ‰ÈŠwŒ¤‹†‰ÈjAœAì²ç’jA“¡“cŒ›‰x
-@@uƒÉƒÊŒvŽZ‚É‚¨‚¯‚é•Às•ÏŠ·v
+ã€€é¦¬å ´è¬™ä»‹ï¼ˆä¹å·žå¤§å­¦ã‚·ã‚¹ãƒ†ãƒ æƒ…å ±ç§‘å­¦ç ”ç©¶ç§‘ï¼‰ã€å»£å·ä½åƒç”·ã€è—¤ç”°æ†²æ‚¦
+ã€€ã€€ã€ŒÎ»Î¼è¨ˆç®—ã«ãŠã‘ã‚‹ä¸¦è¡Œå¤‰æ›ã€
 
-§e‰ï
+æ‡‡è¦ªä¼š
 
-10/16(‹à)
+10/16(é‡‘)
 9:25--10:05
-@‘ü–ØF‘¾˜Yi–kŠC“¹‘åŠw—ŠwŒ¤‹†‰Èj
-@@uKolmogorov complexity ‚Æƒtƒ‰ƒNƒ^ƒ‹W‡v
+ã€€åªæœ¨å­å¤ªéƒŽï¼ˆåŒ—æµ·é“å¤§å­¦ç†å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€ŒKolmogorov complexity ã¨ãƒ•ãƒ©ã‚¯ã‚¿ãƒ«é›†åˆã€
 10:05--10:35
-@Š›_–õi“Þ—Ç—Žq‘åŠw—Šw•”j
-@@uŒvŽZ‰Â”\‹——£‹óŠÔ‚Ì Hausdorff ‹——£‚ÌŒvŽZ‰Â”\«v
+ã€€é´¨æµ©é–ï¼ˆå¥ˆè‰¯å¥³å­å¤§å­¦ç†å­¦éƒ¨ï¼‰
+ã€€ã€€ã€Œè¨ˆç®—å¯èƒ½è·é›¢ç©ºé–“ã® Hausdorff è·é›¢ã®è¨ˆç®—å¯èƒ½æ€§ã€
 10:35--11:05
-@—§–ØGŽ÷i‹ž“s‘åŠw‘‡lŠÔŠw•”j
-@@uƒOƒŒƒCƒR[ƒh‚É‚æ‚éŽÀ”‚o‚b‚ev
+ã€€ç«‹æœ¨ç§€æ¨¹ï¼ˆäº¬éƒ½å¤§å­¦ç·åˆäººé–“å­¦éƒ¨ï¼‰
+ã€€ã€€ã€Œã‚°ãƒ¬ã‚¤ã‚³ãƒ¼ãƒ‰ã«ã‚ˆã‚‹å®Ÿæ•°ï¼°ï¼£ï¼¦ã€
 
-‹xŒe
+ä¼‘æ†©
 
 11:20--12:00
-@“cŒûŒ¤Ž¡i‹ãB‘åŠwƒVƒXƒeƒ€î•ñ‰ÈŠwŒ¤‹†‰Èj
-@²“¡Žüsi“Œ‹ž‘åŠw‘åŒ^ŒvŽZ‹@ƒZƒ“ƒ^[j
-@@uƒZƒ‹‚ð‘€ì‚·‚éŒvŽZŒn@\ƒZƒ‹ŒvŽZ\v
+ã€€ç”°å£ç ”æ²»ï¼ˆä¹å·žå¤§å­¦ã‚·ã‚¹ãƒ†ãƒ æƒ…å ±ç§‘å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ä½è—¤å‘¨è¡Œï¼ˆæ±äº¬å¤§å­¦å¤§åž‹è¨ˆç®—æ©Ÿã‚»ãƒ³ã‚¿ãƒ¼ï¼‰
+ã€€ã€€ã€Œã‚»ãƒ«ã‚’æ“ä½œã™ã‚‹è¨ˆç®—ç³»ã€€â€”ã‚»ãƒ«è¨ˆç®—â€”ã€
 12:00--12:30
-@—´“c^i‹ž“s‘åŠw—ŠwŒ¤‹†‰Èj
-@@uƒOƒ‰ƒtƒ‚ƒfƒ‹‚Æ•”•ªŠÖ”ƒ‚ƒfƒ‹‚Ìˆê—l˜A‘±«v
+ã€€é¾ç”°çœŸï¼ˆäº¬éƒ½å¤§å­¦ç†å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€Œã‚°ãƒ©ãƒ•ãƒ¢ãƒ‡ãƒ«ã¨éƒ¨åˆ†é–¢æ•°ãƒ¢ãƒ‡ãƒ«ã®ä¸€æ§˜é€£ç¶šæ€§ã€
 
-‹xŒe
+ä¼‘æ†©
 
 13:30--14:00
-@”’Šø—DiŒc‰ž‘åŠw¤Šw•”j
-@@uPier -- a proof interactive editor --v
+ã€€ç™½æ——å„ªï¼ˆæ…¶å¿œå¤§å­¦å•†å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒPier -- a proof interactive editor --ã€
 14:00--14:15
-@—§–ØGŽ÷i‹ž“s‘åŠw‘‡lŠÔŠw•”j’|“àòi‹ž“s‘åŠwî•ñŠwŒ¤‹†‰Èj
-@@uŽ©ŒÈ‘ŠŽ—}Œ`‚Ìì}‚Ìƒlƒbƒgƒ[ƒNã‚Å‚ÌŽÀ‘•v
+ã€€ç«‹æœ¨ç§€æ¨¹ï¼ˆäº¬éƒ½å¤§å­¦ç·åˆäººé–“å­¦éƒ¨ï¼‰ç«¹å†…æ³‰ï¼ˆäº¬éƒ½å¤§å­¦æƒ…å ±å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€Œè‡ªå·±ç›¸ä¼¼å›³å½¢ã®ä½œå›³ã®ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ä¸Šã§ã®å®Ÿè£…ã€
 13:30--15:05
-@Z—F—º—ƒi_ŒË‘åŠwŽ©‘R‰ÈŠwŒ¤‹†‰Èj
-@@uØ–¾ƒAƒjƒ[ƒVƒ‡ƒ“Žx‰‡ŠÂ‹«‚É‚Â‚¢‚Äv
+ã€€ä½å‹äº®ç¿¼ï¼ˆç¥žæˆ¸å¤§å­¦è‡ªç„¶ç§‘å­¦ç ”ç©¶ç§‘ï¼‰
+ã€€ã€€ã€Œè¨¼æ˜Žã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³æ”¯æ´ç’°å¢ƒã«ã¤ã„ã¦ã€
 
-‹xŒe
+ä¼‘æ†©
 
 15:20--16:00
-@’†–ì_i—´’J‘åŠw—HŠw•”j
-@@uA realizability interpretation of self-referential typesv
+ã€€ä¸­é‡Žæµ©ï¼ˆé¾è°·å¤§å­¦ç†å·¥å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒA realizability interpretation of self-referential typesã€
 16:00--16:50
-@—ÑWi_ŒË‘åŠwHŠw•”j
-@@uBeeson ‚Ì q-realizability ‚ÌƒvƒƒOƒ‰ƒ€’Šo‚Ö‚Ì—LŒø«v
+ã€€æž—æ™‹ï¼ˆç¥žæˆ¸å¤§å­¦å·¥å­¦éƒ¨ï¼‰
+ã€€ã€€ã€ŒBeeson ã® q-realizability ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ æŠ½å‡ºã¸ã®æœ‰åŠ¹æ€§ã€
 
 </pre>
 </html>
