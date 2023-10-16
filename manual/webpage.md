@@ -4,7 +4,7 @@
 
 SLACSホームページは，[GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)というGitHubの機能によりウェブページ生成されています．サイトジェネレーター部分には[Jekyll](https://jekyllrb.com/)を用いています．
 
-ウェブページ管理者は，基本的には `slacs-web` リポジトリの `docs` ディレクトリ以下を書き換えることでウェブページを更新します．主要なファイルはマークダウン(`.md`ファイル)で作成されています．
+ウェブページ管理者は，基本的には `slacs-web` リポジトリの `docs` ディレクトリ以下を書き換えることでウェブページを更新します．主要なファイルはマークダウン( `.md` ファイル)で作られており，マークダウンファイルの記述はGitHub Pagesの機能により自動で `.html` ファイルに変換されます．
 
 Gitの使い方やマークダウンの編集方法が不明な場合は，適宜，ネットで調べるのをお勧めします．
 
@@ -13,7 +13,7 @@ Gitの使い方やマークダウンの編集方法が不明な場合は，適�
 - [GitHub Pages について - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages): GitHub Pagesの概要について．
 - [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/): ページ生成の細かい設定をする場合に必要となるドキュメント．
   - 使用しているページデザインのテーマ: [pages-themes/slate: Slate is a Jekyll theme for GitHub Pages](https://github.com/pages-themes/slate)
-- [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
+- [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/): オリジナルの Markdown のドキュメント．
 
 ## slacs-web管理について
 
