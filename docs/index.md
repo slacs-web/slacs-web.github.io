@@ -36,4 +36,4 @@ SLACS（スラックス）は，記号論理学と情報科学の境界領域に
 
 ### メイリングリスト
 * 「その手の」メイリングリスト: [説明](https://groups.google.com/g/sonoteno/about)
-* logic-ml メイリングリスト および kisoron-ml メイリングリスト: [説明](https://www.fos.kuis.kyoto-u.ac.jp/cgi-bin/mailman/listinfo/)
+* logic-ml メイリングリスト および kisoron-ml メイリングリスト: [説明](https://www.fos.kuis.kyoto-u.ac.jp/mailman3)
