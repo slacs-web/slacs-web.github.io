@@ -9,6 +9,7 @@ SLACS（スラックス）は，記号論理学と情報科学の境界領域に
 
 ## 最近の SLACS のプログラム
 
+* [SLACS2025](https://sites.google.com/view/slacs2025akita/) (@秋田大学, 幹事 新屋 良磨 氏)
 * [SLACS2024](https://sites.google.com/view/slacs-2024/) (@東北大学, 幹事 浅田 和之 氏)
 * [SLACS2023](https://lambda.ski/slacs2023/) (@京都橘大学+オンライン, 幹事 福田 陽介 氏)
 * [SLACS2022](https://sites.google.com/view/slacs2022/) (@東邦大学+Zoom, 幹事 木村 大輔 氏)
