@@ -45,3 +45,4 @@
 | [39](https://sites.google.com/view/slacs2022/) | 2022.9.20-21 | 東邦大学+Zoom | 木村 大輔 | |
 | [40](https://lambda.ski/slacs2023/) | 2023.8.31-9.1 | 京都橘大学+Teams | 福田 陽介 | |
 | [41](https://sites.google.com/view/slacs-2024/) | 2024.8.21-8.22 | 東北大学 | 浅田 和之 | |
+| [42](https://sites.google.com/view/slacs2025akita/) | 2025.10.29-10.31 | 秋田大学 | 新屋 良磨 | |
